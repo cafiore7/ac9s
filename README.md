@@ -37,7 +37,7 @@ AC9s is heavily inspired by [K9s](https://k9scli.io/) which is a TUI used for ma
 
 ### Clone the repo
 ```
-git clone https://github.com/YOUR_REPO/apple-devops-kit.git
+git clone https://github.com/cafiore7/ac9s.git
 cd apple-devops-kit
 ```
 ### Create virtual environment
@@ -88,7 +88,7 @@ ac9s
 
 ---
 
-## Roadmap (Next Planned Features)
+## Roadmap (Planned Features)
 
 - ✅ Log streaming (experimental branch)
 - ✅ Help screen (`?`) listing keybindings
