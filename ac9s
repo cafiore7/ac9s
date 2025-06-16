@@ -1,0 +1,5 @@
+8️⃣ bin/ac9s
+
+#!/bin/bash
+source $(dirname "$0")/../venv/bin/activate
+python -m ac9s.app

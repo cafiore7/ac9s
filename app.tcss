@@ -1,0 +1,14 @@
+Screen {
+    background: black;
+    color: white;
+}
+
+DataTable {
+    border: solid white;
+}
+
+#header {
+    background: darkslategray;
+    padding: 1 1;
+    height: 3;
+}
