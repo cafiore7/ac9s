@@ -84,8 +84,7 @@ ac9s
 ---
 
 ## Screenshots
-
-[Dashboard](img/Dashboard.png)
+![Dashboard](img/Dashboard.png "Dashboard")
 
 ---
 
@@ -106,9 +105,9 @@ ac9s
 - Architecture:
 
 ac9s/
-  app.py        # UI + logic
-  model.py      # Data model for container info
-  control.py    # Container lifecycle operations
+- app.py        # UI + logic
+- model.py      # Data model for container info
+- control.py    # Container lifecycle operations
 
 ---
 
