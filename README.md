@@ -38,7 +38,7 @@ AC9s is heavily inspired by [K9s](https://k9scli.io/) which is a TUI used for ma
 ### Clone the repo
 ```
 git clone https://github.com/cafiore7/ac9s.git
-cd apple-devops-kit
+cd ac9s
 ```
 ### Create virtual environment
 ```
@@ -85,16 +85,18 @@ ac9s
 
 ## Screenshots
 ![Dashboard](img/Dashboard.png "Dashboard")
+![Logs](img/Logs.png "Logs")
+![Configuration](img/Configuration.png "Configuration")
 
 ---
 
 ## Roadmap (Planned Features)
 
-- ✅ Log streaming (experimental branch)
-- ✅ Help screen (`?`) listing keybindings
-- ✅ Sort/filter containers
-- ✅ Create new containers directly via UI
-- ✅ Live CPU/memory resource usage
+- Log streaming (experimental branch)
+- Help screen (`?`) listing keybindings
+- Sort/filter containers
+- Create new containers directly via UI
+- Live CPU/memory resource usage
 
 ---
 

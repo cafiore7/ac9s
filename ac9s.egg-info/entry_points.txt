@@ -1,0 +1,2 @@
+[console_scripts]
+ac9s = ac9s.app:main

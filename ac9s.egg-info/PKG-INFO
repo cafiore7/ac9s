@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ac9s
+Version: 0.5.0
+Summary: Apple Container TUI (AC9s) for macOS 15+ native containers
+Author: Your Name
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: textual==0.52.0
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
